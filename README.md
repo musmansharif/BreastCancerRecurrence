@@ -34,13 +34,13 @@ RandomForest, SVM, LogisticRegression, KNN, NaiveBayes, DecisionTree
 
   All models were fine-tuned for optimal performance.
 
-  **Evaluation Metrics**
-  Accuracy, 
-  Sensitivity (Recall), 
-  Specificity, 
-  Precision (PPV), 
-  Negative Predictive Value (NPV), 
-  F1-Score.
+  **Evaluation Metrics**  
+    Accuracy,   
+    Sensitivity (Recall), 
+    Specificity,  
+    Precision (PPV),   
+    Negative Predictive Value (NPV),   
+    F1-Score.
 
   **Results Overview**  
   *WPBC Dataset:*
