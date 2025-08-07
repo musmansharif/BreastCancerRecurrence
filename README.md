@@ -69,14 +69,14 @@ RandomForest, SVM, LogisticRegression, KNN, NaiveBayes, DecisionTree
   If you find this work helpful, please cite using the following format: Sharif, U. (2025). Machine Learning-based Prediction of Breast Cancer Recurrence using WPBC and WDBC Datasets. Unpublished Research.
 
   
-  Related Work
+  **Related Work**
   Zuo et al., 2023. 
   Azeroual et al., 2024. 
   Ahmad et al., 2024. 
   Smith et al., 2020.
 
-  **Contact**
-  For any queries or collaborations, please contact:
-  📧 m.usman.sharif1995@gmail.com
-🏫 Lecturer, Riphah International University, Islamabad
-🔗 GitHub: @musmansharif
+  **Contact**  
+    For any queries or collaborations, please contact:  
+    📧 m.usman.sharif1995@gmail.com  
+    🏫 Lecturer, Riphah International University, Islamabad  
+    🔗 GitHub: @musmansharif
