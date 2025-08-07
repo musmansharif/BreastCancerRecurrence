@@ -1,17 +1,17 @@
-# Breast Cancer Recurrence Prediction Using Machine Learning
+# Breast Cancer Recurrence Prediction Using Machine Learning  
 
 This repository contains the full implementation of a research project focused on predicting breast cancer recurrence using machine learning techniques. Two publicly available datasets, WDBC (Wisconsin Diagnostic Breast Cancer) and WPBC (Wisconsin Prognostic Breast Cancer), were used to evaluate the model performance under different experimental settings.
 
-  **Research Objective**
-To develop, evaluate, and compare a variety of classical and ensemble machine learning classifiers on WDBC and WPBC datasets for the task of breast cancer recurrence prediction — both with and without feature selection — and to improve upon existing literature using a carefully optimized and reproducible pipeline.
+  **Research Objective**  
+  To develop, evaluate, and compare a variety of classical and ensemble machine learning classifiers on WDBC and WPBC datasets for the task of breast cancer recurrence prediction — both with and without featurev selection — and to improve upon existing literature using a carefully optimized and reproducible pipeline.
 
-  **Datasets Used**
-WDBC: Wisconsin Diagnostic Breast Cancer
-WPBC: Wisconsin Prognostic Breast Cancer
-All datasets were preprocessed to address missing values, class imbalance, and irrelevant features.
+  **Datasets Used**  
+  WDBC: Wisconsin Diagnostic Breast Cancer  
+  WPBC: Wisconsin Prognostic Breast Cancer  
+  All datasets were preprocessed to address missing values, class imbalance, and irrelevant features.
 
-  **Experimental Setup**
-The study involved two core experimental settings:
+  **Experimental Setup**  
+  The study involved two core experimental settings:
 
   🔹 Model Setting I — Without Feature Selection
 All features retained (except ID/time)
